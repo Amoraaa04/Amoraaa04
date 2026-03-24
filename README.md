@@ -1,4 +1,29 @@
-## Hi there 👋
+## Hi, I'm Ayoka 👋
+Aspiring Tech Professional (Software, Data & Cybersecurity)
+
+### 🚀 Currently Learning
+- Python & JavaScript
+- Data Structures & Algorithms (LeetCode)
+- Systems Thinking & Agile
+
+### 📂 Current Focus
+- Preparing for technology degree apprenticeships  
+- Strengthening problem-solving skills through LeetCode  
+- Building small projects based on real-world systems  
+
+### 🛠 Projects
+- Backlog Refinement Tool (A-level project)
+- LeetCode Problem Solving (in progress)  
+- More projects coming soon...
+
+### 🤖 Interests
+- Responsible AI & Algorithmic Fairness
+- Using technology and AI to improve systems, processes, and real-world outcomes
+- The ethical and societal impact of AI systems 
+- System Design, Systems-thinking & Problem solving
+- Agile & Product Development  
+- Continuous Learning & Self-Improvement
+- Personal development, including building systems to support neurodivergent thinking 💪✨
 
 <!--
 **Amoraaa04/Amoraaa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
