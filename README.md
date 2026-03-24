@@ -1,5 +1,5 @@
 ## Hi, I'm Ayoka 👋
-Aspiring Tech Professional (Software, Data & Cybersecurity)
+Aspiring Tech Professional (Software engineering & Data analyst)
 
 ### What I'm Currently Learning:
 - Python & JavaScript
@@ -23,7 +23,7 @@ Aspiring Tech Professional (Software, Data & Cybersecurity)
 - System Design, Systems-thinking & Problem solving
 - Agile & Product Development  
 - Continuous Learning & Self-Improvement
-- Personal development, including building systems to support neurodivergent thinking 💪✨
+- Personal development, including building systems to support neurodivergent thinking: this is something that has helped me with my own neurodivergence 💪✨
 
 <!--
 **Amoraaa04/Amoraaa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
