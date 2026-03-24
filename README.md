@@ -1,22 +1,22 @@
 ## Hi, I'm Ayoka 👋
 Aspiring Tech Professional (Software, Data & Cybersecurity)
 
-### 🚀 Currently Learning
+### What I'm Currently Learning:
 - Python & JavaScript
 - Data Structures & Algorithms (LeetCode)
 - Systems Thinking & Agile
 
-### 📂 Current Focus
+### What my Current Focus is:
 - Preparing for technology degree apprenticeships  
 - Strengthening problem-solving skills through LeetCode  
 - Building small projects based on real-world systems  
 
-### 🛠 Projects
+### My Projects:
 - Backlog Refinement Tool (A-level project)
 - LeetCode Problem Solving (in progress)  
 - More projects coming soon...
 
-### 🤖 Interests
+### My Interests:
 - Responsible AI & Algorithmic Fairness
 - Using technology and AI to improve systems, processes, and real-world outcomes
 - The ethical and societal impact of AI systems 
