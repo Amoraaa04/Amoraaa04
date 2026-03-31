@@ -2,7 +2,7 @@
 Aspiring Tech Professional (Software engineering & Data analyst)
 
 ### What I'm Currently Learning:
-- Python & JavaScript
+- Python, JavaScript & SQL
 - Data Structures & Algorithms (LeetCode)
 - Systems Thinking & Agile
 
